@@ -1,0 +1,2 @@
+	1. Create MNIST dataloader
+	2. Plot MNIST output samples produced by identity function GAN (without activation functions)
